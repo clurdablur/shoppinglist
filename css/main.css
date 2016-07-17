@@ -1,0 +1,9 @@
+html {
+	font-family: 'Galada', cursive;
+	font-size: 100%;
+}
+
+body {
+	display: block;
+	margin: 8px;
+}

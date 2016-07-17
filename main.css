@@ -1,0 +1,65 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: 'Galada', cursive;
+	font-size: 100%;
+	text-align: center;
+}
+
+body {
+	display: block;
+	margin: 0 auto;
+}
+
+div {
+	display: block;
+}
+
+h1 {
+	font-size: 5em;
+	font-weight: bold;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.listItems li {
+	font-size: 4em;
+	text-align: left;
+}
+
+.listItems {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 600px;
+}
+
+li {
+	list-style: none;
+}
+
+.container {
+	text-align: center;
+	font-family: 'Galada', cursive;
+}
+
+.divcheck {
+	width: 18%;
+	display: inline-block;
+}
+
+.divtext {
+	width: 80%;
+	display: inline-block;
+	text-align: left;
+}
+
+.trash {
+	width: 3%;
+	height: 3%;
+}
+
+.stricked {
+	text-decoration: line-through;
+}
